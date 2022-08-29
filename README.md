@@ -1,6 +1,6 @@
 # Libft
 
-The aim of Libft project is to code a C library regrouping usual functions<br>
+libft는 C 라이브러리를 다시 구현한 프로젝트입니다.<br>
 
 # grade
 

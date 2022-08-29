@@ -1,10 +1,10 @@
-# Libft
+# libft
 
 libft는 C 라이브러리를 다시 구현하는 프로젝트입니다.<br>
 
 # grade
 
-## :white_check_mark: 115/100
+:white_check_mark: 115/100
 
 # function list
 
